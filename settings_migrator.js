@@ -2,7 +2,8 @@
 
 const DefaultSettings = {
   "enabled": true,
-  "complete_delay": 0
+  "complete_delay": 0,
+  "players": {}
 }
 
 module.exports = function MigrateSettings(from_ver, to_ver, settings) {

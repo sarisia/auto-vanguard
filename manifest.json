@@ -1,8 +1,8 @@
 {
 	"files": {
-		"index.js": "c9282fbf068b731b327a7eb11c25d0c901bd289a7d7459ccb716a38c0b4b0b54",
+		"index.js": "520f0c064f8be76a6f8163f1d6fa1e7e2620d02e1b9b99401042e3baaf32da4c",
 		"module.json": "38fe8dbb6ecf1ade37e7d6ffaf578b4b1ba960af836fead1b795f506b6f179e1",
-		"settings_migrator.js": "a2110c9510e9d37c5803489bbac26096c5fabdaa22c82c20507f6248f37adba2"
+		"settings_migrator.js": "e5d75af4a4e008a46c5d889d158f85828f61fdb27b161949e824626b8bad8eb0"
 	},
 	"defs": {
 		"C_COMPLETE_DAILY_EVENT": 1,
